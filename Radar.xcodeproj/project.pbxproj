@@ -18,6 +18,7 @@
 		CC53BCDF22E92D6200BD1361 /* DailyWeather.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC53BCDE22E92D6200BD1361 /* DailyWeather.swift */; };
 		CC53BCE122E92EA400BD1361 /* WeatherList.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC53BCE022E92EA400BD1361 /* WeatherList.swift */; };
 		CC53BCE322E9318900BD1361 /* WeatherIcon.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC53BCE222E9318900BD1361 /* WeatherIcon.swift */; };
+		CCA5C9E422EA8BEC00B39021 /* CityStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCA5C9E322EA8BEC00B39021 /* CityStore.swift */; };
 		CCC1D8F922E9473900325653 /* WeatherManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCC1D8F822E9473900325653 /* WeatherManager.swift */; };
 		CCC1D8FE22E94A0F00325653 /* City.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCC1D8FD22E94A0F00325653 /* City.swift */; };
 /* End PBXBuildFile section */
@@ -55,6 +56,7 @@
 		CC53BCDE22E92D6200BD1361 /* DailyWeather.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyWeather.swift; sourceTree = "<group>"; };
 		CC53BCE022E92EA400BD1361 /* WeatherList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherList.swift; sourceTree = "<group>"; };
 		CC53BCE222E9318900BD1361 /* WeatherIcon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherIcon.swift; sourceTree = "<group>"; };
+		CCA5C9E322EA8BEC00B39021 /* CityStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CityStore.swift; sourceTree = "<group>"; };
 		CCC1D8F822E9473900325653 /* WeatherManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherManager.swift; sourceTree = "<group>"; };
 		CCC1D8FD22E94A0F00325653 /* City.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = City.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -191,6 +193,7 @@
 			isa = PBXGroup;
 			children = (
 				CCC1D8FD22E94A0F00325653 /* City.swift */,
+				CCA5C9E322EA8BEC00B39021 /* CityStore.swift */,
 			);
 			path = Store;
 			sourceTree = "<group>";
@@ -329,6 +332,7 @@
 				CC53BCDB22E92BBC00BD1361 /* Weather.swift in Sources */,
 				CC53BCA522E9286000BD1361 /* AppDelegate.swift in Sources */,
 				CC53BCDF22E92D6200BD1361 /* DailyWeather.swift in Sources */,
+				CCA5C9E422EA8BEC00B39021 /* CityStore.swift in Sources */,
 				CC53BCA722E9286000BD1361 /* SceneDelegate.swift in Sources */,
 				CC53BCDD22E92C8C00BD1361 /* HourlyWeather.swift in Sources */,
 				CC53BCE322E9318900BD1361 /* WeatherIcon.swift in Sources */,
